@@ -1,0 +1,6 @@
+{
+  "name": "Centre For Sight – Preet Vihar",
+  "description": "Explore an independent website concept for Centre For Sight, Preet Vihar, featuring eye care information, location details and appointment enquiry options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
